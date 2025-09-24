@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kamales113
 - 👀 I’m interested in Data analytics 
-- 🌱 I’m currently learning B.Tech AI&DS
+- 🌱 I’m a recent gratuate in B.Tech AI&DS
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me Just message me
 - 😄 Pronouns: ...
