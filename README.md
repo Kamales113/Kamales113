@@ -41,7 +41,7 @@ I engineer end-to-end ML systems—from model training to deployment at scale. E
 **AI-powered autonomous monitoring**
 - Tool-calling & function patterns
 - Multi-source API integration
-- 60% reduction in manual tracking effort
+- 60% reduction in manual tracking effort.
 
 ---
 
